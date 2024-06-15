@@ -19,5 +19,10 @@ En el primer ejemplo, la decisión final sobre el documento a guardar es del enc
 ## Caracteristicas de las base de datos Blockchain:
 
 * Compartida. Como ya se ha mencionado, blockchain es una base de datos compartida, es decir, cada individuo participante tendrá una copia de la base de datos que se actualizará a tiempo real.
-    *  Irreversibilidad. Los bloques de información están ligados criptográficamente. Una vez que se crea un bloque no puede modificarse sin, necesariamente, cambiar también todos los bloques posteriores, necesitando el consenso de los participantes para realizar dicha operación, lo cual, en la práctica hace que el blockchain tenga la característica de “irreversible”.
+*  Irreversibilidad. Los bloques de información están ligados criptográficamente. Una vez que se crea un bloque no puede modificarse sin, necesariamente, cambiar también todos los bloques posteriores, necesitando el consenso de los participantes para realizar dicha operación, lo cual, en la práctica hace que el blockchain tenga la característica de “irreversible”.
 * Seguridad. Derivado de las características de compartida e irreversible, se consigue una base de datos que, en términos generales, es más segura.
+
+## Desventajas:
+* Eficiencia. Las bases de datos tradicionales funcionan perfectamente y, en muchas ocasiones, se encuentra que el coste del cambio no compensa el potencial beneficio derivado de las ventajas de blockchain.
+* Accesibilidad. Igual que ocurría con los primeros ordenadores, la experiencia de usuario que ofrece blockchain, en algunas ocasiones, no es la más accesible. En este sentido, queda camino por recorrer para que todas las personas puedan trabajar con esta tecnología.
+* Incertidumbre. Un desafío clave que se destacan en numerosos estudios son los riesgos desconocidos que se derivan de una tecnología aún emergente.
