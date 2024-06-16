@@ -14,7 +14,7 @@ En Google Docs, en cambio, varias personas pueden trabajar sobre un documento al
 
 En el primer ejemplo, la decisión final sobre el documento a guardar es del encargado de agrupar los cambios de sus compañeros.  Puede elegir, o no, qué cambios incluir (“centralizado”). En el segundo ejemplo, el documento final es establecido por consenso (“descentralizado”).
 
-![Imegan](https://www.santander.com/content/dam/santander-com/es/stories/contenido-stories/2023/-ciberseguridad/im-storie-blockchain-que-es-info.png.transform/rendition-sm/image.png)
+![Imagen](https://www.santander.com/content/dam/santander-com/es/stories/contenido-stories/2023/-ciberseguridad/im-storie-blockchain-que-es-info.png.transform/rendition-sm/image.png)
 
 ## Caracteristicas de las base de datos Blockchain:
 
@@ -57,3 +57,5 @@ La cadena de bloques funciona a través de nodos distribuidos, sin que exista un
 ### Bloques
 
 En la cadena de bloques, las operaciones se agrupan en los llamados "bloques". Cuando hay suficientes operaciones para llenar un bloque o se agota el tiempo asignado para el bloque, se propone añadir el bloque a la cadena. Aquí es donde entra en juego el mecanismo de consenso. “Consenso” significa encontrar una manera de que todos los nodos se pongan de acuerdo sobre la validez de las operaciones, sin depender de una autoridad central.
+
+Las transferencias de bitcoin funcionan de la siguiente forma: si A quiere enviar un bitcoin a B, A debe transmitir esta petición al sistema en una acción que será similar a cómo se envían transferencias en los bancos de forma tradicional. Una vez la red recibe esa orden, esta pasa a formar parte de un bloque (un bloque de información, como ya se mencionó previamente). La red confirmará la firma de la transacción (esto significa que A realmente ha ordenado la transacción usando su Clave Privada A) y que A posee el Bitcoin que quiere enviar a B. Una vez los nodos verifican dicha información, el bloque de información se incorpora a la cadena, la transferencia queda registrada y el dinero se mueve de una cuenta a la otra.
