@@ -64,19 +64,14 @@ Las transferencias de bitcoin funcionan de la siguiente forma: si A quiere envia
 
 -------------------------------------------------------------------------------------------------------------
 
-### Resumen sobre Blockchain
-
----
 
 ## Introducción a Blockchain
 
----
-
-### Conceptos Fundamentales 
+### Conceptos Fundamentales (20%)
 
 #### Definición de Blockchain
 
-Blockchain es una tecnología de registro distribuido que permite la transferencia segura de datos y valores a través de una red de nodos independientes. Es esencialmente una base de datos compartida que está estructurada en una cadena de bloques, donde cada bloque contiene un conjunto de transacciones o datos y está vinculado criptográficamente al bloque anterior, formando así una cadena continua y segura.
+Blockchain es una tecnología de registro distribuido que permite la transferencia segura de datos y valores a través de una red de nodos independientes. Es esencialmente una base de datos compartida que está estructurada en una cadena de bloques, donde cada bloque contiene un conjunto de transacciones o datos y está vinculado criptográficamente al bloque anterior, formando así una cadena continua y segura. Esta tecnología se destaca por sus propiedades de descentralización, transparencia, seguridad e inmutabilidad.
 
 #### Funcionamiento Básico
 
@@ -103,7 +98,7 @@ Blockchain se destaca por sus características de seguridad, transparencia e inm
 
 ---
 
-### Tecnologías y Herramientas
+### Tecnologías y Herramientas (20%)
 
 #### Principales Tecnologías y Plataformas de Blockchain
 
@@ -135,7 +130,7 @@ Blockchain se destaca por sus características de seguridad, transparencia e inm
 
 ---
 
-### Aplicaciones Prácticas
+### Aplicaciones Prácticas (20%)
 
 #### Casos de Uso en Diferentes Industrias
 
@@ -171,12 +166,19 @@ Blockchain se destaca por sus características de seguridad, transparencia e inm
 
 Blockchain representa una revolución tecnológica que está transformando múltiples industrias al proporcionar una forma segura, transparente e inmutable de registrar y transferir datos y valores. Desde su conceptualización con Bitcoin hasta las aplicaciones avanzadas con Ethereum y soluciones empresariales con Hyperledger, la tecnología de blockchain continúa evolucionando y ofreciendo nuevas oportunidades para innovar y mejorar la eficiencia operativa. La adopción de blockchain en finanzas, logística y la implementación de contratos inteligentes destacan su versatilidad y potencial para resolver problemas complejos de manera eficiente y segura.
 
+---
 
-## BIBLIOGRAFIA 
-* Antonopoulos, A. M. (2014). Mastering Bitcoin: Unlocking Digital Cryptocurrencies. O'Reilly Media.
-* Nakamoto, S. (2008). Bitcoin: A Peer-to-Peer Electronic Cash System. Recuperado de https://bitcoin.org/bitcoin.pdf
-* Buterin, V. (2014). A Next-Generation Smart Contract and Decentralized Application Platform. Recuperado de https://ethereum.org/en/whitepaper/
-* Swan, M. (2015). Blockchain: Blueprint for a New Economy. O'Reilly Media.
-* Wood, G. (2014). Ethereum: A Secure Decentralised Generalised Transaction Ledger. Recuperado de https://ethereum.github.io/yellowpaper/paper.pdf
-* Hyperledger Foundation. (2021). Introduction to Hyperledger. Recuperado de https://www.hyperledger.org/learn/publications/introduction-to-hyperledger
-* Tapscott, D., & Tapscott, A. (2016). Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World. Penguin.
+### Referencias y Citas Bibliográficas
+
+---
+
+Para la elaboración de este resumen sobre blockchain, se han utilizado fuentes académicas, artículos técnicos, libros y recursos en línea relevantes y actuales. A continuación se presentan las referencias que apoyan los conceptos y ejemplos presentados:
+
+1. Antonopoulos, A. M. (2014). *Mastering Bitcoin: Unlocking Digital Cryptocurrencies*. O'Reilly Media.
+2. Nakamoto, S. (2008). *Bitcoin: A Peer-to-Peer Electronic Cash System*. Recuperado de [https://bitcoin.org/bitcoin.pdf](https://bitcoin.org/bitcoin.pdf)
+3. Buterin, V. (2014). *A Next-Generation Smart Contract and Decentralized Application Platform*. Recuperado de [https://ethereum.org/en/whitepaper/](https://ethereum.org/en/whitepaper/)
+4. Swan, M. (2015). *Blockchain: Blueprint for a New Economy*. O'Reilly Media.
+5. Wood, G. (2014). *Ethereum: A Secure Decentralised Generalised Transaction Ledger*. Recuperado de [https://ethereum.github.io/yellowpaper/paper.pdf](https://ethereum.github.io/yellowpaper/paper.pdf)
+6. Hyperledger Foundation. (2021). *Introduction to Hyperledger*. Recuperado de [https://www.hyperledger.org/learn/publications/introduction-to-hyperledger](https://www.hyperledger.org/learn/publications/introduction-to-hyperledger)
+7. Tapscott, D., & Tapscott, A. (2016). *Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business, and the World*. Penguin.
+
