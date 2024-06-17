@@ -67,8 +67,7 @@ Las transferencias de bitcoin funcionan de la siguiente forma: si A quiere envia
 
 ## Introducción a Blockchain
 
-### Conceptos Fundamentales (20%)
-
+### Conceptos Fundamentales 
 #### Definición de Blockchain
 
 Blockchain es una tecnología de registro distribuido que permite la transferencia segura de datos y valores a través de una red de nodos independientes. Es esencialmente una base de datos compartida que está estructurada en una cadena de bloques, donde cada bloque contiene un conjunto de transacciones o datos y está vinculado criptográficamente al bloque anterior, formando así una cadena continua y segura. Esta tecnología se destaca por sus propiedades de descentralización, transparencia, seguridad e inmutabilidad.
@@ -98,7 +97,7 @@ Blockchain se destaca por sus características de seguridad, transparencia e inm
 
 ---
 
-### Tecnologías y Herramientas (20%)
+### Tecnologías y Herramientas
 
 #### Principales Tecnologías y Plataformas de Blockchain
 
@@ -130,7 +129,7 @@ Blockchain se destaca por sus características de seguridad, transparencia e inm
 
 ---
 
-### Aplicaciones Prácticas (20%)
+### Aplicaciones Prácticas
 
 #### Casos de Uso en Diferentes Industrias
 
